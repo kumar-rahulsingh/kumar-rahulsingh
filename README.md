@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *data structure and algorithms , mongoDB*
 
-- 👨‍💻 All of my projects are available at [https://shankk-portfolio.netlify.app/](https://imyportfoliorahul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://imyportfoliorahul.netlify.app/](https://imyportfoliorahul.netlify.app/)
 
 - 💬 Ask me about *react , redux ,API , tailwindCSS ,basic of c++ and coreJAVA*
 

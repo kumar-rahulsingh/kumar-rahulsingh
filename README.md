@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack developer**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Redux,API**
 
 - 👨‍💻 All of my projects are available at [https://imyportfoliorahul.netlify.app/](https://imyportfoliorahul.netlify.app/)
 

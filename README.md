@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rahuln singh</h1>
+<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shan2304&label=Profile%20views&color=0e75b6&style=flat" alt="shan2304" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-rahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-rahulsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shan2304" alt="shan2304" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shan2304" alt="kumar-rahulsingh" /></a> </p>
 
-- 🌱 I’m currently learning *data structure and algorithms , mongoDB*
+- 🌱 I’m currently learning *data structure and algorithms , Reactjs , redux *
 
 - 👨‍💻 All of my projects are available at [https://imyportfoliorahul.netlify.app/](https://imyportfoliorahul.netlify.app/)
 
-- 💬 Ask me about *react , redux ,API , tailwindCSS ,basic of c++ and coreJAVA*
+- 💬 Ask me about *API , bootStrap5 ,mongoDB, Expressjs ,NodeJs , basic of c++ and core JAVA*
 
 - 📫 How to reach me **singhrahul35577@gmail.com**
 

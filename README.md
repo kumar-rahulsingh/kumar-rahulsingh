@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *data structure and algorithms , Reactjs , redux *
 
-- 👨‍💻 All of my projects are available at [https://imyportfoliorahul.netlify.app/](https://imyportfoliorahul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://imyportfoliorahul.netlify.app/](https://rahulportfolieos.netlify.app/)
 
 - 💬 Ask me about *API , bootStrap5 ,mongoDB, Expressjs ,NodeJs , basic of c++ and core JAVA*
 
